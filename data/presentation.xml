@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<presentation title="DS Prezi" width="960.0000000" height="540.0000000" thmbWidth="0.0000000" thmbHeight="0.0000000" frameRate="24.0000000" looping="0" startingSlideShow="" pptVersion="2016" type="compound" hasExternalAudio="0" uid="{DFB7783B-D6C3-4412-9F15-2D5EA0CE60A9}">
+<presentation title="DS Prezi" width="960.0000000" height="540.0000000" thmbWidth="0.0000000" thmbHeight="0.0000000" frameRate="24.0000000" looping="0" startingSlideShow="" pptVersion="2016" type="compound" hasExternalAudio="0" uid="{61FFA861-DBB1-4B52-8BFB-DBCEAFF37B26}">
 	<presenters/>
 	<references/>
 	<soundAssets/>
@@ -137,7 +137,7 @@
 		<playback autoStart="1" syncWithVideoNarration="1" enableVideoControl="1" resumePresentationPlayback="never"/>
 	</settings>
 	<slides embedded="0">
-		<slide index="0" title="HUM Transitions &amp; student journey" titleNormalized="hum transitions &amp; student journey" src="slide1.swf" size="8009" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+		<slide index="0" title="HUM Transitions &amp; student journey" titleNormalized="hum transitions &amp; student journey" src="slide1.swf" size="11510" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
 			<sounds/>
 			<videos/>
 			<transitionEffect name="FadeThroughBlack" duration="0.5000000" soundId="" looped="0"/>
@@ -152,7 +152,7 @@
 			<text>HUM Transitions &amp; student journey
 Start</text>
 		</slide>
-		<slide index="1" title="Welcome" titleNormalized="welcome" src="slide2.swf" size="2654" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
+		<slide index="1" title="Welcome" titleNormalized="welcome" src="slide2.swf" size="2646" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
 			<sounds/>
 			<videos/>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
@@ -172,7 +172,7 @@ Embedded into core modules/teaching or as additional standalone events
 Delivered by a combination of Schools and/or professional services
 NEXT</text>
 		</slide>
-		<slide index="2" title="Begin Your Journey" titleNormalized="begin your journey" src="slide3.swf" size="3733" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
+		<slide index="2" title="Begin Your Journey" titleNormalized="begin your journey" src="slide3.swf" size="3737" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
 			<sounds/>
 			<videos/>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
@@ -206,7 +206,7 @@ HUM Foundation Year</text>
 			<notesHtml/>
 			<text>HUM Foundation Year</text>
 		</slide>
-		<slide index="4" title="UG Year 1 &amp; HUMFY" titleNormalized="ug year 1 &amp; humfy" src="slide5.swf" size="2407" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
+		<slide index="4" title="UG Year 1 &amp; HUMFY" titleNormalized="ug year 1 &amp; humfy" src="slide5.swf" size="2404" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
 			<sounds/>
 			<videos/>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
@@ -225,7 +225,7 @@ Semester 2
 Assessment Period
 Please select an option above</text>
 		</slide>
-		<slide index="5" title="UG Year 1 &amp; HUMFY : Pre-Arrival" titleNormalized="ug year 1 &amp; humfy : pre-arrival" src="slide6.swf" size="2408" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
+		<slide index="5" title="UG Year 1 &amp; HUMFY : Pre-Arrival" titleNormalized="ug year 1 &amp; humfy : pre-arrival" src="slide6.swf" size="2403" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
 			<sounds/>
 			<videos/>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
@@ -250,7 +250,7 @@ Information about SU Buddy scheme
 
 Contact from School</text>
 		</slide>
-		<slide index="6" title="UG Year 1 &amp; HUMFY : Semester 1" titleNormalized="ug year 1 &amp; humfy : semester 1" src="slide7.swf" size="3446" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
+		<slide index="6" title="UG Year 1 &amp; HUMFY : Semester 1" titleNormalized="ug year 1 &amp; humfy : semester 1" src="slide7.swf" size="3416" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
 			<sounds/>
 			<videos/>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
@@ -282,7 +282,7 @@ Study skills – assessment literacy, student exemplars (especially joint hons)
 Buddy activities
 Next</text>
 		</slide>
-		<slide index="7" title="UG Year 1 &amp; HUMFY : Semester 1" titleNormalized="ug year 1 &amp; humfy : semester 1" src="slide8.swf" size="3611" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
+		<slide index="7" title="UG Year 1 &amp; HUMFY : Semester 1" titleNormalized="ug year 1 &amp; humfy : semester 1" src="slide8.swf" size="3600" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
 			<sounds/>
 			<videos/>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
@@ -317,7 +317,7 @@ Study skills – using feedback constructively
 Drop-in peer-to-peer mental health and well-being session
 Back</text>
 		</slide>
-		<slide index="8" title="Undergraduate Year 2" titleNormalized="undergraduate year 2" src="slide9.swf" size="996" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
+		<slide index="8" title="Undergraduate Year 2" titleNormalized="undergraduate year 2" src="slide9.swf" size="993" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
 			<sounds/>
 			<videos/>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
@@ -331,7 +331,7 @@ Back</text>
 			<notesHtml/>
 			<text>Undergraduate Year 2</text>
 		</slide>
-		<slide index="9" title="Undergraduate Final Year" titleNormalized="undergraduate final year" src="slide10.swf" size="1000" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
+		<slide index="9" title="Undergraduate Final Year" titleNormalized="undergraduate final year" src="slide10.swf" size="995" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
 			<sounds/>
 			<videos/>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
@@ -345,7 +345,7 @@ Back</text>
 			<notesHtml/>
 			<text>Undergraduate Final Year</text>
 		</slide>
-		<slide index="10" title="Postgraduate Taught" titleNormalized="postgraduate taught" src="slide11.swf" size="996" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
+		<slide index="10" title="Postgraduate Taught" titleNormalized="postgraduate taught" src="slide11.swf" size="995" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
 			<sounds/>
 			<videos/>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
@@ -359,7 +359,7 @@ Back</text>
 			<notesHtml/>
 			<text>Postgraduate Taught</text>
 		</slide>
-		<slide index="11" title="Postgraduate Research" titleNormalized="postgraduate research" src="slide12.swf" size="995" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
+		<slide index="11" title="Postgraduate Research" titleNormalized="postgraduate research" src="slide12.swf" size="992" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
 			<sounds/>
 			<videos/>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
